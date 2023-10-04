@@ -7,4 +7,5 @@ STAY TUNED with me , I will try to design this place and make it awesomeee...
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+![GitHub stars](https://img.shields.io/github/stars/username/repo.svg?style=social)
 
