@@ -2,6 +2,6 @@ Hello I am Abhishek Panday and I am a student at UEM Jaipur,doing B.Tech in C.S.
 I enjoy coding and always keen to learn new things all the time,
 also really enjoy designing stuff and i would like to display some of my work here using this platform .
 STAY TUNED with me , I will try to design this place and make it awesomeee...
-![Build Status]([https://github.com/abhish3k0p/weather_Forecast.git](https://img.shields.io/travis/username/repo.svg)https://img.shields.io/travis/username/repo.svg)
+![Build Status](https://img.shields.io/travis/username/repo.svg)
 ![Demo](demo.gif)
 
