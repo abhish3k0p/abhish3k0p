@@ -1,8 +1,8 @@
 <h1 align="center">Namaste 👋, I'm Abhishek Panday</h1>
-<h3 align="center">I am a student at UEM Jaipur,doing B.Tech in C.S.E.<br>
+<h3 align="center">I am a student at UEM Jaipur,doing B.Tech in C.S.E.<br></h3>
 - I enjoy coding and always keen to learn new things all the time,<br>
 - also really enjoy designing stuff and i would like to display some of my work here using this platform .<br>
-- STAY TUNED with me , I will try to design this place and make it awesomeee.</h3>
+- STAY TUNED with me , I will try to design this place and make it awesomeee.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhish3k0p&label=Profile%20views&color=0e75b6&style=flat" alt="abhish3k0p" /> </p>
 
