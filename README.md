@@ -1,12 +1,11 @@
-<h1 align="center">Namaste 👋, I'm Abhishek Panday</h1>
-<h3 align="center">I am a student at UEM Jaipur,doing B.Tech in C.S.E.<br></h3>
+<h1 align="center" >Namaste 👋, I'm Abhishek Panday</h1>
+<h3 align="center">I am a student at UEM Jaipur,doing B.Tech in C.S.E.</h3>
+
+
 - I enjoy coding and always keen to learn new things all the time,<br>
 - also really enjoy designing stuff and i would like to display some of my work here using this platform .<br>
-- STAY TUNED with me , I will try to design this place and make it awesomeee.
-
-
+- STAY TUNED with me for more updates🫡.
 -  I’m currently learning **Kotlin for Android Development.**
-
 -  How to reach me **abhi2k0p@gmail.com**
 
 ![ezgif com-resize (1)](https://github.com/abhish3k0p/abhish3k0p/assets/125299884/2b381844-8ef8-49dd-8f8e-1c6287f4cc21)
