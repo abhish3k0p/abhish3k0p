@@ -6,11 +6,13 @@
 
 
 
-- 🌱 I’m currently learning **Kotlin for Android Development.**
+-  I’m currently learning **Kotlin for Android Development.**
 
-- 📫 How to reach me **abhi2k0p@gmail.com**
+-  How to reach me **abhi2k0p@gmail.com**
 
-<p><img align="center" src="<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhish3k0p&show_icons=true&locale=en&layout=compact" alt="abhish3k0p" /></p>
+![ezgif com-resize (1)](https://github.com/abhish3k0p/abhish3k0p/assets/125299884/2b381844-8ef8-49dd-8f8e-1c6287f4cc21)
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
