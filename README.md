@@ -11,7 +11,7 @@
 ![ezgif com-resize (1)](https://github.com/abhish3k0p/abhish3k0p/assets/125299884/2b381844-8ef8-49dd-8f8e-1c6287f4cc21)
 
 <a href="https://github.com/ethereum/solidity" target="_blank">
-  <img src="https://github.com/abhish3k0p/abhish3k0p/assets/125299884/2b381844-8ef8-49dd-8f8e-1c6287f4cc21" alt="Solidity" style="border-radius: 25px; width: 100px;">
+  <img src="https://github.com/abhish3k0p/abhish3k0p/assets/125299884/2b381844-8ef8-49dd-8f8e-1c6287f4cc21" alt="Solidity" style="border-radius: 225px; width: 100px;">
 </a>
 
 
